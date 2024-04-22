@@ -6,7 +6,7 @@ package Modelos;
 
 /**
  *
- * @author 1464
+ * @author POLG
  */
 
 public class Material {
