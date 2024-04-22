@@ -6,7 +6,7 @@ package Secciones;
 
 /**
  *
- * @author 1464
+ * @author polg
  */
 public class Nodo {
     private String material;
